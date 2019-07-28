@@ -1,10 +1,13 @@
 PREDEF:
-  - preface.re
 
 CHAPS:
-  - article.re
+  - 1_01_introduction.re
+  - 1_02_the_night_before.re
+  - 1_03_meowql_study_group.re
+  - 1_04_after_meowql.re
+  - 1_05_meowql_next_generation.re
+  - 1_06_conclusion.re
 
 APPENDIX:
 
 POSTDEF:
-  - contributors.re

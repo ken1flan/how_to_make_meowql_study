@@ -2,12 +2,16 @@ PREDEF:
 
 CHAPS:
   - 1_01_introduction.re
-  - 1_02_the_night_before.re
-  - 1_03_meowql_study_group.re
-  - 1_04_after_meowql.re
-  - 1_05_meowql_next_generation.re
-  - 1_06_conclusion.re
+  - 1_02_about_meowql_and_result.re
+  - 1_03_the_night_before.re
+  - 1_04_meowql_study_group.re
+  - 1_05_after_meowql.re
+  - 1_06_meowql_next_generation.re
+  - 1_07_conclusion.re
 
 APPENDIX:
+  - a_01_about_type.re
+  - a_02_about_set_theory.re
+  - a_03_classroom.re
 
 POSTDEF:

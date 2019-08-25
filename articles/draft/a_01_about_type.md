@@ -27,7 +27,7 @@
 
 ### 数値
 
-![整数と実数](../images/a_01/integer_and_real.jpg)
+![整数と実数](../images/a_01_about_type/integer_and_real.jpg)
 
 いわゆる数字なのですが、少し扱いが面倒なものがあります。
 数値も大きく分けると、整数と実数に分けられています。
@@ -57,7 +57,7 @@
 
 ### 文字
 
-![文字列](../images/a_01/character_string.jpg)
+![文字列](../images/a_01_about_type/character_string.jpg)
 
 文字が列をなして並んでいるので、文字列です。言葉に馴染みがないと思いますが、よく使われるので気に留めておいてください。
 
@@ -117,7 +117,7 @@ SELECT 'SELECT * FROM Table;';
 日時を表す表現は3つ、日付だけの`DATE`と、日付と時間の`TIMESTAMP`とタイムゾーン付き日付と時間の`TIMESTAMPTZ`です。
 保存する際の記憶領域のサイズの問題で分けられたのかもしれません。
 
-![文字列](../images/a_01/timezone.jpg)
+![タイムゾーン](../images/a_01_about_type/timezone.jpg)
 
 | カテゴリ | データ型 | 説明 |
 |--|--|--|

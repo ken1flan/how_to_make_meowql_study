@@ -163,7 +163,7 @@ SELECT 'SELECT * FROM Table;';
 
 
 
-//image[timezone][文字列]{
+//image[timezone][タイムゾーン]{
 //}
 
 

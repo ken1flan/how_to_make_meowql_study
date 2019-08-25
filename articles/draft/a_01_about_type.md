@@ -7,8 +7,6 @@
 - 文字列
 - 日時
 
-## どうしてあるの？
-
 ## 型の種類
 [Redshiftのデータ型](https://docs.aws.amazon.com/ja_jp/redshift/latest/dg/c_Supported_data_types.html)
 
@@ -71,6 +69,25 @@
 | 文字列 | VARCHAR | 可変長キャラクタ文字列 |
 
 #### NULLと空文字列
+
+文字列は文字が並んだものです。例えば`'CAT'`のようなものです。文字がひとつも入っていない`''`のような場合も考えられます。
+`''`は空文字列といったりします。
+
+SQLでは空っぽを表す`NULL`というものもありますが、`''`とは違います。後述のクエリを実行してみてください。
+
+```sql
+SELECT
+  NULL = '' AS NULLと空文字列はおなじ？
+, '' = NULL AS 空文字列とNULLはおなじ？
+, NULL = NULL AS NULLとNULLはおなじ？
+, '' = '' AS 空文字列と空文字列はおなじ？
+, NULL IS NULL AS NULLはNULL？
+, '' IS NULL AS 空文字列はNULL？
+;
+```
+
+`NULL = ''`や`'' IS NULL`が`True`になりません。比較するときに注意してください。
+空文字列はあくまでも文字列であり、中身はないけど器はあります。NULLのほうは器すらないようなものです。
 
 #### ASCII文字とマルチバイト文字
 

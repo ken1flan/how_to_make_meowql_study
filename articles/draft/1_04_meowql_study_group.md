@@ -59,7 +59,7 @@
   - その９　INTERSECTを使う　給料日に販売をした社員の一覧を出してくれ
   - その10　EXCEPTを使う　販売をしたことがない社員の一覧を出してくれ
 
-![](../images/1_04_meowql_study_group/classroom.jpg)
+![勉強会](../images/1_04_meowql_study_group/classroom.jpg)
 
 ### よいところ
 

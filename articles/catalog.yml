@@ -2,7 +2,6 @@ PREDEF:
 
 CHAPS:
   - 1_01_introduction.re
-  - 1_02_about_meowql_and_result.re
   - 1_03_the_night_before.re
   - 1_04_meowql_study_group.re
   - 1_05_after_meowql.re

@@ -4,7 +4,7 @@
 
 ニャーQLっていうのは、参加者のひとりが言ってくれたフレーズで、自分で言いだしたわけじゃないんです。こういうキャッチーな言葉をサッと言えるようになりたいですねえ…。
 
-![ニャーQL勉強会](../images/1_04_meowql_study_group/meowql_study_logo.png)
+![ニャーQL勉強会](../images/1_03_meowql_study_group/meowql_study_logo.png)
 
 ## 教材
 
@@ -17,7 +17,7 @@
 
 `INSERT`や`UPDATE`、`CREATE TABLE`なども扱ってますが…。業務で扱えるのは、危険を伴わない`SELECT`だけと思い、ひとつのテーブルを扱う2章、複数のテーブルを扱う3章までにしました。
 
-[![SQL書き方ドリル](../images/1_04_meowql_study_group/sql_drill.png)](https://gihyo.jp/book/2016/978-4-7741-8066-3)
+[![SQL書き方ドリル](../images/1_03_meowql_study_group/sql_drill.png)](https://gihyo.jp/book/2016/978-4-7741-8066-3)
 
 ### 内容
 
@@ -59,7 +59,7 @@
   - その９　INTERSECTを使う　給料日に販売をした社員の一覧を出してくれ
   - その10　EXCEPTを使う　販売をしたことがない社員の一覧を出してくれ
 
-![勉強会](../images/1_04_meowql_study_group/classroom.jpg)
+![勉強会](../images/1_03_meowql_study_group/classroom.jpg)
 
 ### よいところ
 
@@ -102,7 +102,7 @@
   - 長くなると続かないような気がしたので、あまり終わらないときには切り上げて次に進む感じで…。
 - 参加者は5人→10人（途中で増えました）
 
-![発表](../images/1_04_meowql_study_group/presentation.jpg)
+![発表](../images/1_03_meowql_study_group/presentation.jpg)
 
 ### 予習・発表の形式にしたねらい
 
@@ -119,7 +119,7 @@
   - 発表できなかったひとも、同じ立場のひとが解いた事実から
   - 自分もできそうだと思えそう
 
-![予習](../images/1_04_meowql_study_group/study.jpg)
+![予習](../images/1_03_meowql_study_group/study.jpg)
 
 ## 参加者がつまづいたところ
 

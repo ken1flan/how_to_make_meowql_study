@@ -9,7 +9,7 @@
 ですので…自分も覚悟し…。
 スケジュールどおりに進めるのは諦め、各セクションで参加者の誰かが演習問題をちゃんと解けることがわかるまで終わらない、つまりとことん付き合っていくことを決めました。
 
-![やるぞ！](../images/1_05_get_creative/decision.png)
+![やるぞ！](../images/1_04_get_creative/decision.png)
 
 ## 参加意欲に関するくふう
 
@@ -23,7 +23,7 @@
   - 勉強会に出席したひとに
   - 銀色の小さいシールをプレゼント
 
-![出席シールと発表シール](../images/1_05_get_creative/seals.jpg)
+![出席シールと発表シール](../images/1_04_get_creative/seals.jpg)
 
 予習してきた演習問題を発表してくれたら金のシールをプレゼント。
 勉強会に参加したら、金のシールより小さい銀のシールをプレゼント。
@@ -54,7 +54,7 @@
 - ホントは一回で書かないですよね？
 - 普段自分が書く雰囲気を伝えたかったので、試行錯誤しながら解いていく様子を見せました。
 
-![ライブコーディング](../images/1_05_get_creative/live_coding.png)
+![ライブコーディング](../images/1_04_get_creative/live_coding.png)
 
 ### ベン図の紹介
 
@@ -64,7 +64,7 @@
 - `WHERE`のところで`AND`や`OR`を使うところで違和感を感じ…`UNION`で気づきました。
 - イメージで補助するツールとして紹介しました。
 
-![ベン図](../images/1_05_get_creative/venn.png)
+![ベン図](../images/1_04_get_creative/venn.png)
 
 ### テーブル関連図をみんなで描いてもらう
 
@@ -74,7 +74,7 @@
 - JOINがなかなか飲み込めてなさそうでした。
 - 実際に線をひっぱってもらいました。
 
-![関連図](../images/1_05_get_creative/relation.png)
+![関連図](../images/1_04_get_creative/relation.png)
 
 ## 復習に関するくふう
 
@@ -95,7 +95,7 @@
 - 出題者が解答も準備してもらうので、復習必須。
 - ひとに問題を出すのって、身の入り方が違うでしょ
 
-![キャッチボール](../images/1_05_get_creative/playing_catch.png)
+![キャッチボール](../images/1_04_get_creative/playing_catch.png)
 
 ## 実際に掛かった時間
 
@@ -118,7 +118,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 最後に自由な質問や、redashでグラフを描いたりしていました。
 5ヶ月くらいやっていたんですねえ…。
 
-![日数](../images/1_05_get_creative/schedule.png)
+![日数](../images/1_04_get_creative/schedule.png)
 
 ### 打ち上げに関するくふう
 
@@ -130,7 +130,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 趣味のシールづくりを活かして、卒業シールをあげました。
 金色のペンでニャーQLと手書きで入れてあります。ドリルに貼ってくれると、終わった感が出ますよねえ。
 
-![卒業シール](../images/1_05_get_creative/graduate.jpg)
+![卒業シール](../images/1_04_get_creative/graduate.jpg)
 
 ### 打ち上げランチ
 
@@ -138,4 +138,4 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 個人的におすすめしたいのは、ノンアルコールのスパークリングワイン。
 特別感が出せます。
 
-![スパークリングジュース](../images/1_05_get_creative/sparkling_grape_juice.jpg)
+![スパークリングジュース](../images/1_04_get_creative/sparkling_grape_juice.jpg)

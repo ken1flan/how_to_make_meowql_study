@@ -34,4 +34,4 @@ SQLに興味を持つひとが増えてきたが、どうやって学んだら�
 みんなで勉強しましょう。わからないところは教えますから！
 ```
 
-![できるって！](../images/1_03_the_night_before/you_can_do_it.png)
+![できるって！](../images/1_02_the_night_before/you_can_do_it.png)

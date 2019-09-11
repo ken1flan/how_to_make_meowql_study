@@ -10,7 +10,7 @@
 
 各セクションどれくらい理解できたか、5段階で訊きました。
 
-![](../images/1_05_retrospective/questions_drill.png)
+![各セクションの理解度](../images/1_05_retrospective/questions_drill.png)
 
 セクション名の右にある小さいグラフがアンケート結果です。
 セクション名に近いほうが「わからない」離れている方が「わかった」になっています。縦軸は人数です。
@@ -21,13 +21,13 @@
 
 まとめて答えてもらったのがこちらです。
 
-![](../images/1_05_retrospective/chart_sql_with_a_table.png)
-![](../images/1_05_retrospective/chart_sql_with_tables.png)
+![ひとつのテーブルならSQLかけそう？](../images/1_05_retrospective/chart_sql_with_a_table.png)
+![複数のテーブルのSQLもかけそう？](../images/1_05_retrospective/chart_sql_with_tables.png)
 
 ひとつのテーブルはだいたい大丈夫そう。
 複数テーブルは…3〜5が4人もいるので、結構使えるひとが増えたといえると思います。
 
-![](../images/1_05_retrospective/chart_usefull.png)
+![普段の業務で役立ってますか？](../images/1_05_retrospective/chart_usefull.png)
 
 ### その他
 
@@ -36,25 +36,24 @@
 勉強会を通して、よかったことを訊いたところ…。
 業務で使って工数削減できそうとか、少なくともSQLを読めそう感が出てきたとか、実データを使ったのがよかったなどの声がありました。
 
-![](../images/1_05_retrospective/thoughts_keep.png)
+![やってよかったこと](../images/1_05_retrospective/thoughts_keep.png)
 
 ただ、ほかの業務との兼ね合いでなかなか難しい場合もありますね…。
 
-![](../images/1_05_retrospective/thoughts_problem.png)
+![やってよくなかったところ](../images/1_05_retrospective/thoughts_problem.png)
 
 解析の仕方を…これは「10年戦えるデータ分析入門」かな…
 
 復習会…たしかにまたなにかしたい気持ちもあります…。
 
-![](../images/1_05_retrospective/thoughts_try.png)
+![つぎにやるひとにすすめたいこと」](../images/1_05_retrospective/thoughts_try.png)
+
+![感想](../images/1_05_retrospective/thoughts.png)
 
 エンジニアにどういうふうに頼めばよいかわかった…これだけでもマジ仕事がラクになります…。
-
 自己学習時は投げ出しちゃってたけど…そうそう、みんなでやるとよいですよね。やったかいがありました。
 
 ## redashの管理テーブルから
-
-![](../images/1_05_retrospective/thoughts.png)
 
 redashで管理用データベースも見れるようになっているので…参加者のクエリの作成数を活用度合いの指標として見てみました。
 
@@ -66,4 +65,4 @@ redashで管理用データベースも見れるようになっているので�
 
 ちゃんと事実として使ってくれているようで、本当に安心しました。
 
-![](../images/1_05_retrospective/chart_sql.png)
+![どれくらい使ってる？](../images/1_05_retrospective/chart_sql.png)

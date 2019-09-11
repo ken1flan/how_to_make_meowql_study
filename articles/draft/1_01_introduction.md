@@ -4,7 +4,7 @@
 
 まずはみてください。SQLなんですよ。
 
-![](../images/1_01_introduction/students_sql.png)
+![エンジニアでない同僚が書いたSQL！](../images/1_01_introduction/students_sql.png)
 
 小さいんですが、よーく目を凝らして見ていただくとですね、`CASE`やら`JOIN`やらいろいろ使っているのがわかるかと思います。わからなくても、雰囲気くらい感じられますか…？
 

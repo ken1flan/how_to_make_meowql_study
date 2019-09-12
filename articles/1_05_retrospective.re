@@ -16,7 +16,7 @@
 
 
 
-//image[questions_drill][各セクションの理解度]{
+//indepimage[questions_drill][][scale=1.0]{
 //}
 
 
@@ -39,10 +39,10 @@
 
 
 
-//image[chart_sql_with_a_table][ひとつのテーブルならSQLかけそう？]{
+//indepimage[chart_sql_with_a_table][][scale=1.0]{
 //}
 
-//image[chart_sql_with_tables][複数のテーブルのSQLもかけそう？]{
+//indepimage[chart_sql_with_tables][][scale=1.0]{
 //}
 
 
@@ -53,7 +53,7 @@
 
 
 
-//image[chart_usefull][普段の業務で役立ってますか？]{
+//indepimage[chart_usefull][][scale=1.0]{
 //}
 
 
@@ -70,7 +70,7 @@
 
 
 
-//image[thoughts_keep][やってよかったこと]{
+//indepimage[thoughts_keep][][scale=1.0]{
 //}
 
 
@@ -80,7 +80,7 @@
 
 
 
-//image[thoughts_problem][やってよくなかったところ]{
+//indepimage[thoughts_problem][][scale=1.0]{
 //}
 
 
@@ -94,13 +94,13 @@
 
 
 
-//image[thoughts_try][つぎにやるひとにすすめたいこと」]{
+//indepimage[thoughts_try][][scale=1.0]{
 //}
 
 
 
 
-//image[thoughts][感想]{
+//indepimage[thoughts][][scale=1.0]{
 //}
 
 
@@ -131,7 +131,7 @@ redashで管理用データベースも見れるようになっているので�
 
 
 
-//image[chart_sql][どれくらい使ってる？]{
+//indepimage[chart_sql][][scale=1.0]{
 //}
 
 

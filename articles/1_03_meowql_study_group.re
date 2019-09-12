@@ -10,7 +10,7 @@
 
 
 
-//image[meowql_study_logo][ニャーQL勉強会]{
+//indepimage[meowql_study_logo][][scale=1.0]{
 //}
 
 
@@ -35,7 +35,7 @@
 
 
 
-@<href>{https://gihyo.jp/book/2016/978-4-7741-8066-3,//image[sql_drill][SQL書き方ドリル]{
+@<href>{https://gihyo.jp/book/2016/978-4-7741-8066-3,//indepimage[sql_drill][][scale=1.0]{
 //\}
 }
 
@@ -83,7 +83,7 @@
 
 
 
-//image[classroom][勉強会]{
+//indepimage[classroom][][scale=1.0]{
 //}
 
 
@@ -140,7 +140,7 @@
 
 
 
-//image[presentation][発表]{
+//indepimage[presentation][][scale=1.0]{
 //}
 
 
@@ -163,7 +163,7 @@
 
 
 
-//image[study][予習]{
+//indepimage[study][][scale=1.0]{
 //}
 
 

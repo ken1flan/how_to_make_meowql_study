@@ -17,7 +17,7 @@
 
 
 
-//image[decision][やるぞ！]{
+//indepimage[decision][][scale=1.0]{
 //}
 
 
@@ -37,7 +37,7 @@
 
 
 
-//image[seals][出席シールと発表シール]{
+//indepimage[seals][][scale=1.0]{
 //}
 
 
@@ -84,7 +84,7 @@
 
 
 
-//image[live_coding][ライブコーディング]{
+//indepimage[live_coding][][scale=1.0]{
 //}
 
 
@@ -100,7 +100,7 @@
 
 
 
-//image[venn][ベン図]{
+//indepimage[venn][][scale=1.0]{
 //}
 
 
@@ -116,7 +116,7 @@
 
 
 
-//image[relation][関連図]{
+//indepimage[relation][][scale=1.0]{
 //}
 
 
@@ -145,7 +145,7 @@
 
 
 
-//image[playing_catch][キャッチボール]{
+//indepimage[playing_catch][][scale=1.0]{
 //}
 
 
@@ -188,7 +188,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 
 
 
-//image[schedule][日数]{
+//indepimage[schedule][][scale=1.0]{
 //}
 
 
@@ -208,7 +208,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 
 
 
-//image[graduate][卒業シール]{
+//indepimage[graduate][][scale=1.0]{
 //}
 
 
@@ -222,7 +222,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 
 
 
-//image[sparkling_grape_juice][スパークリングジュース]{
+//indepimage[sparkling_grape_juice][][scale=1.0]{
 //}
 
 

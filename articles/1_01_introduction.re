@@ -10,7 +10,7 @@
 
 
 
-//image[students_sql][エンジニアでない同僚が書いたSQL！]{
+//indepimage[students_sql][][scale=1.0]{
 //}
 
 
@@ -24,7 +24,7 @@
 
 
 
-//image[really][マヂすか？！]{
+//indepimage[really][][scale=1.0]{
 //}
 
 
@@ -55,7 +55,7 @@
 
 
 
-//image[cats_with_drill][ズラリ…！]{
+//indepimage[cats_with_drill][][scale=1.0]{
 //}
 
 

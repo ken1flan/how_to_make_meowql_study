@@ -2,7 +2,7 @@
 = 集合と論理演算
 
 
-//image[venn_diagram][ベン図]{
+//indepimage[venn_diagram][][scale=1.0]{
 //}
 
 
@@ -46,7 +46,7 @@
 
 
 
-//image[and][AND]{
+//indepimage[and][][scale=1.0]{
 //}
 
 
@@ -64,7 +64,7 @@
 
 
 
-//image[or][OR]{
+//indepimage[or][][scale=1.0]{
 //}
 
 
@@ -77,7 +77,7 @@
 
 
 
-//image[not][NOT]{
+//indepimage[not][][scale=1.0]{
 //}
 
 

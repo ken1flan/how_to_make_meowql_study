@@ -73,7 +73,7 @@ date: 2019-9-22
 history: [["2019-9-22 技術書典7版 v1.0.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
-rights: (C) 2017-2019 TechBooster
+rights: (C) 2019 ken1flan
 # description: 説明
 # subject: 短い説明用タグ(配列で複数指定可)
 # type: 書籍のカテゴリーなど(配列で複数指定可)
@@ -86,7 +86,7 @@ rights: (C) 2017-2019 TechBooster
 debug: null
 
 # 固有IDに使用するドメイン。省略した場合は時刻に基づくランダムUUIDが入る
-urnid: urn:uid:https://github.com/TechBooster/ReVIEW-Template
+urnid: urn:uid:https://github.com/ken1flan/how_to_make_meowql_study
 #
 # ISBN。省略した場合はurnidが入る
 # isbn: null
@@ -104,7 +104,7 @@ epubversion: 3
 htmlversion: 5
 
 # 目次として抽出する見出しレベル
-toclevel: 3
+toclevel: 2
 
 # 採番の設定。採番させたくない見出しには「==[nonum]」のようにnonum指定をする
 #

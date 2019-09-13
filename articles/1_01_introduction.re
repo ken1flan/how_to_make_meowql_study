@@ -24,7 +24,7 @@
 
 
 
-//indepimage[really][][scale=1.0]{
+//indepimage[really][][scale=0.2]{
 //}
 
 
@@ -55,7 +55,7 @@
 
 
 
-//indepimage[cats_with_drill][][scale=1.0]{
+//indepimage[cats_with_drill][][scale=0.8]{
 //}
 
 

@@ -2,7 +2,7 @@
 = 集合と論理演算
 
 
-//indepimage[venn_diagram][][scale=1.0]{
+//indepimage[venn_diagram][][scale=0.8]{
 //}
 
 
@@ -46,7 +46,7 @@
 
 
 
-//indepimage[and][][scale=1.0]{
+//indepimage[and][][scale=0.8]{
 //}
 
 
@@ -64,7 +64,7 @@
 
 
 
-//indepimage[or][][scale=1.0]{
+//indepimage[or][][scale=0.8]{
 //}
 
 
@@ -77,7 +77,7 @@
 
 
 
-//indepimage[not][][scale=1.0]{
+//indepimage[not][][scale=0.8]{
 //}
 
 
@@ -93,10 +93,3 @@
 
 この図を@<href>{https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E5%9B%B3,ベン図}といいます。
 普段の仕事の中でも、複雑な条件について話し合うときに、とても便利だと思います。
-
-
-== 例題
-
-=== WHERE
-
-=== CASE

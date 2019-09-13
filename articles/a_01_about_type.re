@@ -35,7 +35,7 @@
 === 数値
 
 
-//indepimage[integer_and_real][][scale=1.0]{
+//indepimage[integer_and_real][][scale=0.3]{
 //}
 
 
@@ -94,7 +94,7 @@ FROM Table1
 === 文字
 
 
-//indepimage[character_string][][scale=1.0]{
+//indepimage[character_string][][scale=0.3]{
 //}
 
 
@@ -179,7 +179,7 @@ SELECT 'SELECT * FROM Table;';
 
 
 
-//indepimage[timezone][][scale=1.0]{
+//indepimage[timezone][][scale=0.3]{
 //}
 
 

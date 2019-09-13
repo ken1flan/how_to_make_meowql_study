@@ -17,7 +17,7 @@
 
 
 
-//indepimage[decision][][scale=1.0]{
+//indepimage[decision][][scale=0.3]{
 //}
 
 
@@ -37,7 +37,7 @@
 
 
 
-//indepimage[seals][][scale=1.0]{
+//indepimage[seals][][scale=0.8]{
 //}
 
 
@@ -84,7 +84,7 @@
 
 
 
-//indepimage[live_coding][][scale=1.0]{
+//indepimage[live_coding][][scale=0.3]{
 //}
 
 
@@ -100,7 +100,7 @@
 
 
 
-//indepimage[venn][][scale=1.0]{
+//indepimage[venn][][scale=0.8]{
 //}
 
 
@@ -116,7 +116,7 @@
 
 
 
-//indepimage[relation][][scale=1.0]{
+//indepimage[relation][][scale=0.8]{
 //}
 
 
@@ -145,7 +145,7 @@
 
 
 
-//indepimage[playing_catch][][scale=1.0]{
+//indepimage[playing_catch][][scale=0.3]{
 //}
 
 
@@ -208,7 +208,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 
 
 
-//indepimage[graduate][][scale=1.0]{
+//indepimage[graduate][][scale=0.8]{
 //}
 
 
@@ -222,7 +222,7 @@ WHEREを実データを使った例を加えてやったので少し長くなっ
 
 
 
-//indepimage[sparkling_grape_juice][][scale=1.0]{
+//indepimage[sparkling_grape_juice][][scale=0.8]{
 //}
 
 

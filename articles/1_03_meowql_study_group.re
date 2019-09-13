@@ -10,7 +10,7 @@
 
 
 
-//indepimage[meowql_study_logo][][scale=1.0]{
+//indepimage[meowql_study_logo][][scale=0.7]{
 //}
 
 
@@ -83,7 +83,7 @@
 
 
 
-//indepimage[classroom][][scale=1.0]{
+//indepimage[classroom][][scale=0.3]{
 //}
 
 
@@ -140,7 +140,7 @@
 
 
 
-//indepimage[presentation][][scale=1.0]{
+//indepimage[presentation][][scale=0.3]{
 //}
 
 
@@ -163,7 +163,7 @@
 
 
 
-//indepimage[study][][scale=1.0]{
+//indepimage[study][][scale=0.3]{
 //}
 
 

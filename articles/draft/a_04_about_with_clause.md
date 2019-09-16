@@ -1,5 +1,7 @@
 # WITH句
 
+![with](../images/a_04_about_with_clause/with.jpg)
+
 WITH句はSELECT文をカッコで括った副問合せを仮想的にテーブルと見立てて、本体のFROMやJOINなどで使うことができます。
 
 ```sql

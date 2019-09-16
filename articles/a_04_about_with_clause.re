@@ -2,6 +2,12 @@
 = WITH句
 
 
+//indepimage[with][][scale=0.8]{
+//}
+
+
+
+
 WITH句はSELECT文をカッコで括った副問合せを仮想的にテーブルと見立てて、本体のFROMやJOINなどで使うことができます。
 
 

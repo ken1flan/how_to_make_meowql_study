@@ -1,9 +1,10 @@
 = 著者紹介
 
-== ken1flan
 
 //indepimage[ken1flan][][scale=0.2]{
 //}
+
+@<b>{ken1flan}
 
 @<href>{https://www.ruby-lang.org/,プログラミング言語 Ruby}の地域コミュニティ、@<href>{https://ginzarb.github.io/,Ginza.rb} 主催のひとり。
 
@@ -12,4 +13,5 @@
 普段は、PerlとRubyでお仕事をしています。
 
 Twitterは@<href>{https://twitter.com/ken1flan,@ken1flan}です。
+
 読んだ感想とか、やってみたよ、などありましたら、声をかけてくれるとうれしいです。

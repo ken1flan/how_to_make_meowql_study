@@ -63,3 +63,14 @@
 印刷所でお願いするときにも安心のスタイルがあってとても助かります。
 ありがとうございました。
 
+
+== ダウンロード
+
+
+技術書典で印刷された本で買ってくださった方は@<href>{https://drive.google.com/file/d/1peFKDaVtzAnyG9wxRNxdT3Rev4k4DkCm/view?usp=sharing,こちら}からダウンロードできますので、よろしかったらご利用ください。
+（リンクが切れてしまっていたらお声がけください。）
+
+@<tt>{https://drive.google.com/file/d/1peFKDaVtzAnyG9wxRNxdT3Rev4k4DkCm/view?usp=sharing}
+
+//indepimage[qr][][scale=0.5]{
+//}

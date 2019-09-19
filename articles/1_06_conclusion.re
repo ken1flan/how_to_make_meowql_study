@@ -19,20 +19,20 @@
 
 == 謝辞
 
-=== @<href>{https://gihyo.jp/book/2016/978-4-7741-8066-3,改訂第3版 すらすらと手が動くようになる SQL書き方ドリル}
+==== @<href>{https://gihyo.jp/book/2016/978-4-7741-8066-3,改訂第3版 すらすらと手が動くようになる SQL書き方ドリル}
 
 
 かわいらしいイラストのおかげで、技術者でないひともすんなり受け入れてくれ、中が短い単元をこなしていく形になっているので進めやすかったです。
 ありがとうございました。
 
 
-=== @<href>{https://redash.io/,Redash}
+==== @<href>{https://redash.io/,Redash}
 
 
 インストールせずに、ブラウザからすぐにSQLを使えるので、利用者のハードルが一気に下がりました。勉強会も普段の業務もとても助かっています。ありがとうございます。
 
 
-=== @<href>{https://www.sbcr.jp/product/4797376272/,10年戦えるデータ分析入門}
+==== @<href>{https://www.sbcr.jp/product/4797376272/,10年戦えるデータ分析入門}
 
 
 まえがきに書かれた
@@ -48,7 +48,7 @@
 ありがとうございます。
 
 
-=== @<href>{https://reviewml.org/,Re:VIEW}
+==== @<href>{https://reviewml.org/,Re:VIEW}
 
 
 この本は@<href>{https://reviewml.org/,Re:VIEW}を使って作られました。
@@ -56,12 +56,18 @@
 ありがとうございました。
 
 
-=== @<href>{https://github.com/TechBooster/ReVIEW-Template,Re:VIEW Template}
+==== @<href>{https://github.com/TechBooster/ReVIEW-Template,Re:VIEW Template}
 
 
 この本の見栄えは@<href>{https://github.com/TechBooster/ReVIEW-Template,Re:VIEW Template}によって作られました。
 印刷所でお願いするときにも安心のスタイルがあってとても助かります。
 ありがとうございました。
+
+==== ニャーQL勉強会に参加してくれたみなさん
+
+
+いろいろなことがかなり手探りでわかりにくいところも多かったと思いますが、元気よくついてきてくれてありがとうございます。
+勉強したことを仕事などで活かしてくれているようで、自分も鼻が高いです。
 
 
 == ダウンロード

@@ -35,8 +35,7 @@
 
 
 
-@<href>{https://gihyo.jp/book/2016/978-4-7741-8066-3,//indepimage[sql_drill][][scale=1.0]{
-//\}
+//indepimage[sql_drill][][scale=1.0]{
 }
 
 
